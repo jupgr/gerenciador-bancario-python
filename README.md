@@ -1,4 +1,4 @@
-# 💰 Gerenciador de Conta Bancária (Python)
+# Gerenciador de Conta Bancária (Python)
 
 Este é um programa simples feito em Python que simula o gerenciamento de uma conta bancária:
 
@@ -7,7 +7,7 @@ Este é um programa simples feito em Python que simula o gerenciamento de uma co
 - Contabilizar transações
 - Encerrar o programa a qualquer momento
 
-## 🧠 Lógica utilizada
+## Lógica utilizada
 - Estrutura de repetição `while`
 - Condicionais `if`, `elif`, `else`
 - Contador de transações
